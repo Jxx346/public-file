@@ -42,6 +42,8 @@ def post_kai(data):
     
 69abe2d5559dea0015c7725d
 
+![Uploading image.png…]()
+
 def main(args):
     a = ['抖音', '月儿弯弯佳润口腔护理专卖店', '2026-07-02', "zanwushuj", 6]
     data = post_kai(a)
